@@ -1,31 +1,20 @@
-# Online Tiffin Service Mangement System Using Django
+# TGPCET Security Tool
 
-Online Tiffin Service System is a Django based web application which strives to make an online portal for both vendors and customers. Using Interactive GUI anyone can quickly learn to use the complete system. This system will give power and flexibility to the administrator to manage the entire system from a single online portal.
+A Python application for encrypting and decrypting text, files, and folders using Tkinter.
 
-In Online Tiffin Service System we use Python Django and SQLite Database. This project keeps the records of Tiffin’s orders. This project has three modules i.e. admin, vendor and customers.
+## Features
 
-Running the File:
+- **Text Encryption/Decryption**: Securely handle text with a password.
+- **File Encryption/Decryption**: Supports .pdf, .txt, .ppt, .pptx formats.
+- **Folder Encryption/Decryption**: Batch process all files within a folder.
 
-To run the file use the command:
-python manage.py runserver
+## How to Run
 
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/tgpcet-security-tool.git
 
-Admin eamil - admin@admin.com
+python tgpcet_security_tool.py
 
-admin username - admin
-
-admin -admin123
-
-Vendor ID
-
-11910617
-11910616
-11910615
-
-
-If your system doesn't have django installed. Please refer this link: https://docs.djangoproject.com/en/4.0/howto/windows/
-
-
-
-
-
+   
+For support, reach out on WhatsApp: 9518772281.
